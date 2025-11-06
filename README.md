@@ -1,6 +1,3 @@
-# 🍽️ Philosophers
-*I never thought philosophy would be so deadly*
-
 ---
 
 ## 📘 Overview
@@ -19,7 +16,3 @@ The project includes both a **mandatory part** (threads + mutexes) and a **bonus
 - Improve C programming skills and algorithmic thinking.
 
 ---
-
-## ⚙️ Global Rules
-- **Global variables are forbidden.**
-- Program arguments:
